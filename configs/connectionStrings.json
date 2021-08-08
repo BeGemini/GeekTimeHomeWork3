@@ -1,0 +1,18 @@
+[
+	{
+		"dbName":"myApp_basic",
+		"driver":"mysql",
+		"ip":"127.0.0.1",
+		"port":"3306",
+		"user":"root",
+		"password":""
+	},
+	{
+		"dbName":"myApp_biz",
+		"driver":"mysql",
+		"ip":"127.0.0.1",
+		"port":"3306",
+		"user":"root",
+		"password":""
+	}
+]
